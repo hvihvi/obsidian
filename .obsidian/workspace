@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "obsidian.md",
+            "file": "Browser Networking.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian.md",
+                "file": "Browser Networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,10 @@
   },
   "active": "eedc1807b49ae9e7",
   "lastOpenFiles": [
-    "obsidian.md"
+    "Browser Networking.md",
+    "Browser Tooling.md",
+    "CSS Carousel.md",
+    "obsidian.md",
+    "ADR.md"
   ]
 }
